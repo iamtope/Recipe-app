@@ -1,0 +1,17 @@
+{
+  "name": "recipes",
+  "version": "1.0.0",
+  "description": "A recipe book app",
+  "author": "Abass Adamo",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
